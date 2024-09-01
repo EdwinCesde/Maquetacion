@@ -10,10 +10,10 @@ const Content = () => {
                 </ul>
             </div>
             <div className="galery">
-                <img src="../src/images/IMG_9597.jpg" alt="" srcset="" />
-                <img src="../src/images/IMG_2217.jpg" alt="" srcset="" />
-                <img src="../src/images/IMG_1414.jpg" alt="" srcset="" />
-                <img src="../src/images/IMG_2807.jpg" alt="" srcset="" />
+                <img src="/IMG_9597.jpg" alt="" srcset="" />
+                <img src="/IMG_2217.jpg" alt="" srcset="" />
+                <img src="/IMG_1414.jpg" alt="" srcset="" />
+                <img src="/IMG_2807.jpg" alt="" srcset="" />
                 <h3>¡Respetar su vida es nuestro deber!</h3>
             </div>
             <div className="footer">
