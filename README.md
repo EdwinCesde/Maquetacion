@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Usé herramientas como React y el editor de código visual studio code y adapte mis fotos para agregarlas al proyecto.<br>En el modulo Header tengo un Navbar que aún no está funcional, espero ponerlo funcional en una próxima entrega, el código para iniciar el proyecto sigue siendo "npm run dev",  también le cambié el icon por uno mas adecuado al proyecto</p>
+<p align="left">Usé herramientas como React y el editor de código visual studio code y adapte mis fotos para agregarlas al proyecto.<br>En el modulo Header tengo un Navbar que aún no está funcional, espero ponerlo funcional en una próxima entrega, el código para iniciar el proyecto sigue siendo "npm run dev",  también le cambié el icon por uno mas adecuado al proyecto<br>a continuación los pasos parar ejecutar el proyecto<br>-Abre una terminal<br>-clona el proyecto<br>-Abre la carpeta con el editor Visual Studio Code<br>-En la terminal escribe "npm run dev"</p>
 
 ###
 
@@ -33,5 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
